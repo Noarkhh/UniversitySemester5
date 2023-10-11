@@ -1,0 +1,9 @@
+[submodule "ConcurrencyTheory"]
+	path = ConcurrencyTheory
+	url = git@github.com:Noarkhh/ConcurrencyTheory.git
+[submodule "IntroToAI"]
+	path = IntroToAI
+	url = git@github.com:Noarkhh/IntroToAI.git
+[submodule "IntroToMachineVision"]
+	path = IntroToMachineVision
+	url = git@github.com:Noarkhh/IntroToMachineVision.git
