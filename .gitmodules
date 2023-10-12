@@ -7,3 +7,6 @@
 [submodule "IntroToMachineVision"]
 	path = IntroToMachineVision
 	url = git@github.com:Noarkhh/IntroToMachineVision.git
+[submodule "Cryptography"]
+	path = Cryptography
+	url = git@github.com:Noarkhh/Cryptography.git
