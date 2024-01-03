@@ -10,3 +10,9 @@
 [submodule "Cryptography"]
 	path = Cryptography
 	url = git@github.com:Noarkhh/Cryptography.git
+[submodule "MIAPD"]
+	path = MIAPD
+	url = git@github.com:MCzech3605/MIAPD.git
+[submodule "CompilationTheory"]
+	path = CompilationTheory
+	url = git@github.com:Noarkhh/CompilationTheory.git
